@@ -6,7 +6,8 @@ A Tableau-based COVID-19 spread analysis and visualization project, showcasing g
 ## Project Overview
 This project showcases a **Tableau dashboard** analyzing the global spread of COVID-19 from its onset in 2019 to 2022. Using data visualization, this project highlights critical insights about case and death trends, top affected countries, and monthly progression.
 
-![Dashboard Screenshot](Covid_19_Report/Screenshot/dashboard.png)
+Preview of the Dashboard
+![Dashboard Screenshot](Screenshot/dashboard.png)
 ---
 
 ## Key Features of the Dashboard
@@ -61,7 +62,7 @@ This project showcases a **Tableau dashboard** analyzing the global spread of CO
 
 ## How to View the Dashboard
 1. [View the published dashboard on Tableau Public/Desktop](https://public.tableau.com/views/Covid_19_17340017037410/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-2. Download the Tableau workbook file (`Dashboard/Covid_19_Analysis.twb`) from this repository and open it using Tableau Desktop.
+2. Download the Tableau workbook file (`Dashboard/Covid_19_Analysis.twb`) from this repository and open it using Tableau Desktop/Public.
 
 ---
 
